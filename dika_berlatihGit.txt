@@ -2,3 +2,5 @@ Nama : Dika Wibisono
 Stack : Backend
 Hobi : Olahraga Bola Basket
 Deskripsi : Suka programin karena, menyenangkan, bisa melakukan banyak hal didepan komputer
+
+com2 adding new line

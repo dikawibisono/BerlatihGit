@@ -3,4 +3,5 @@ Stack : Backend
 Hobi : Olahraga Bola Basket
 Deskripsi : Suka programin karena, menyenangkan, bisa melakukan banyak hal didepan komputer
 
+Update dari com1
 com2 adding new line
